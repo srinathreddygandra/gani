@@ -44,3 +44,5 @@ main class Student
 //	}
 	}
 }
+{
+}
